@@ -30,7 +30,7 @@ Azure Bot Service, QnA Maker, Static Web Apps,
 App Service
 # 
  
-JAY CHAUHAN
+DIVYA
 
 
 
